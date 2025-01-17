@@ -1,0 +1,14 @@
+{
+  "resourceName": "userProfileImages",
+  "policyUUID": "bf286ffb",
+  "bucketName": "varsitydatingb74b3e055cd34cf5978b6bacec90ae0c",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

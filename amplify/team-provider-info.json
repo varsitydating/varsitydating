@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-varsitydating-dev-1ee31-authRole",
+      "UnauthRoleArn": "arn:aws:iam::886436946997:role/amplify-varsitydating-dev-1ee31-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::886436946997:role/amplify-varsitydating-dev-1ee31-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-varsitydating-dev-1ee31-deployment",
+      "UnauthRoleName": "amplify-varsitydating-dev-1ee31-unauthRole",
+      "StackName": "amplify-varsitydating-dev-1ee31",
+      "StackId": "arn:aws:cloudformation:us-east-1:886436946997:stack/amplify-varsitydating-dev-1ee31/29d6c830-cac3-11ef-9580-0affeb4a6493",
+      "AmplifyAppId": "d68w45fkwyqb3"
+    },
+    "categories": {
+      "auth": {
+        "varsitydating6d0924a3": {}
+      },
+      "storage": {
+        "userProfileImages": {}
+      },
+      "api": {
+        "varsitydating": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d68w45fkwyqb3",
+          "type": "cicd"
+        }
+      }
+    }
+  }
+}
