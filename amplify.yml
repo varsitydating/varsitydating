@@ -4,7 +4,7 @@ frontend:
     preBuild:
       commands:
         # Install Flutter SDK
-        - curl -fsSL https://storage.googleapis.com/download.flutter.io/flutter_linux_3.7.3-stable.tar.xz -o flutter.tar.xz
+        - curl -fsSL https://storage.googleapis.com/download.flutter.io/flutter_linux_3.10.0-stable.tar.xz -o flutter.tar.xz
         - tar -xvf flutter.tar.xz
         - export PATH="$PATH:`pwd`/flutter/bin"
         # Verify Flutter installation
